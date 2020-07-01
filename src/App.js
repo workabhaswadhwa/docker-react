@@ -9,7 +9,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hi There, from work.
-          New line here
+          New line here.
+          Merge this into master branch
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
